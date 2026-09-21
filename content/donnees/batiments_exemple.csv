@@ -1,0 +1,401 @@
+arrondissement;type_batiment;annee;volume_m3;surface_m2
+2e;Bureau;2023;9885.0;3208
+16e;Équipement public;2019;3468.0;1160
+14e;Résidentiel;2024;;570
+9e;Résidentiel;2022;3448.0;1175
+9e;Résidentiel;2021;1351.0;421
+18e;Résidentiel;2024;1544.0;473
+2e;Résidentiel;2020;623.0;204
+14e;Commercial;2022;2653.0;912
+5e;Résidentiel;2017;1397.0;496
+2e;Résidentiel;2024;538.0;178
+11e;Commercial;2021;1938.0;680
+20e;Commercial;2022;1900.0;623
+15e;Résidentiel;2019;4714.0;1501
+16e;Bureau;2023;5510.0;2077
+15e;Commercial;2015;2025.0;779
+16e;Commercial;2016;2391.0;863
+11e;Résidentiel;2020;1382.0;417
+3e;Résidentiel;2022;1162.0;373
+17e;Équipement public;2023;628.0;229
+10e;Résidentiel;2019;1205.0;364
+11e;Résidentiel;2021;795.0;267
+8e;Résidentiel;2020;558.0;187
+4e;Commercial;2024;2874.0;858
+19e;Équipement public;2021;1761.0;665
+16e;Résidentiel;2019;383.0;138
+13e;Équipement public;2024;1229.0;401
+9e;Résidentiel;2016;2689.0;976
+17e;Commercial;2024;4217.0;1341
+11e;Commercial;2016;4120.0;1487
+9e;Résidentiel;2017;1376.0;514
+10e;Résidentiel;2023;741.0;268
+5e;Résidentiel;2022;627.0;213
+2e;Équipement public;2024;1705.0;622
+12e;Commercial;2022;2620.0;968
+18e;Équipement public;2021;3298.0;1003
+2e;Bureau;2018;6364.0;2228
+18e;Résidentiel;2015;1221.0;423
+17e;Bureau;2016;1233.0;466
+6e;Résidentiel;2017;1071.0;371
+13e;Résidentiel;2015;1559.0;554
+4e;Bureau;2020;2558.0;828
+16e;Bureau;2022;1966.0;711
+15e;Résidentiel;2024;1599.0;483
+8e;Résidentiel;2019;941.0;281
+2e;Commercial;2023;1294.0;483
+20e;Bureau;2024;3665.0;1365
+9e;Commercial;2023;1516.0;563
+18e;Résidentiel;2019;1589.0;513
+14e;Résidentiel;2018;1622.0;601
+16e;Résidentiel;2024;603.0;184
+16e;Commercial;2017;1435.0;448
+4e;Bureau;2019;8062.0;2476
+8e;Résidentiel;2015;594.0;197
+10e;Résidentiel;2022;304.0;89
+10e;Résidentiel;2021;364.0;138
+1er;Commercial;2015;2051.0;702
+11e;Bureau;2017;3011.0;1053
+4e;Résidentiel;2020;1234.0;367
+15e;Résidentiel;2020;3134.0;1024
+14e;Commercial;2023;309.0;95
+19e;Résidentiel;2017;1767.0;646
+15e;Bureau;2024;8791.0;2599
+8e;Résidentiel;2019;608.0;203
+20e;Résidentiel;2023;1027.0;343
+9e;Équipement public;2017;791.0;234
+7e;Résidentiel;2015;716.0;247
+19e;Résidentiel;2015;1066.0;365
+8e;Résidentiel;2018;3638.0;1186
+2e;Résidentiel;2024;4847.0;1794
+10e;Résidentiel;2015;1059.0;371
+16e;Résidentiel;2018;5082.0;1845
+4e;Résidentiel;2016;1373.0;512
+10e;Résidentiel;2024;4571.0;1388
+3e;Commercial;2021;1882.0;613
+14e;Commercial;2022;2202.0;763
+10e;Résidentiel;2022;1730.0;591
+7e;Résidentiel;2021;12397.0;4209
+5e;Résidentiel;2022;2431.0;783
+12e;Bureau;2015;1796.0;537
+14e;Bureau;2023;5807.0;1735
+19e;Résidentiel;2022;1040.0;357
+9e;Résidentiel;2022;951.0;332
+4e;Résidentiel;2018;2530.0;854
+17e;Résidentiel;2023;1369.0;448
+13e;Commercial;2018;2442.0;822
+15e;Résidentiel;2015;1353.0;433
+2e;Résidentiel;2024;1695.0;557
+7e;Résidentiel;2017;1803.0;631
+16e;Résidentiel;2016;345.0;120
+17e;Résidentiel;2021;2136.0;736
+9e;Bureau;2017;1482.0;554
+17e;Résidentiel;2023;488.0;179
+17e;Équipement public;2019;1286.0;405
+8e;Résidentiel;2015;1421.0;488
+18e;Bureau;2024;1813.0;654
+6e;Équipement public;2020;2396.0;786
+5e;Équipement public;2017;523.0;163
+14e;Bureau;2021;2216.0;790
+13e;Bureau;2020;1957.0;600
+3e;Commercial;2015;1945.0;582
+17e;Bureau;2022;3582.0;1164
+4e;Résidentiel;2019;661.0;211
+17e;Résidentiel;2021;2224.0;842
+1er;Résidentiel;2023;1400.0;417
+16e;Bureau;2021;;269
+16e;Résidentiel;2021;340.0;102
+16e;Résidentiel;2017;1328.0;434
+14e;Commercial;2017;1721.0;661
+10e;Résidentiel;2019;1246.0;474
+15e;Résidentiel;2023;1313.0;418
+6e;Résidentiel;2020;1569.0;514
+16e;Résidentiel;2018;2600.0;992
+12e;Résidentiel;2022;615.0;193
+10e;Résidentiel;2023;590.0;180
+11e;Résidentiel;2024;623.0;208
+12e;Résidentiel;2017;1640.0;552
+1er;Résidentiel;2022;3202.0;1229
+3e;Commercial;2020;1486.0;460
+5e;Résidentiel;2019;232.0;81
+3e;Équipement public;2018;406.0;123
+9e;Équipement public;2016;748.0;258
+14e;Résidentiel;2017;906.0;297
+14e;Résidentiel;2020;1006.0;357
+10e;Résidentiel;2023;1376.0;504
+18e;Bureau;2023;2369.0;736
+12e;Commercial;2016;4188.0;1397
+2e;Bureau;2021;1836.0;606
+16e;Résidentiel;2015;732.0;217
+12e;Commercial;2021;2809.0;833
+13e;Résidentiel;2018;457.0;139
+12e;Commercial;2019;2639.0;960
+12e;Résidentiel;2022;1439.0;468
+2e;Commercial;2019;1812.0;549
+12e;Bureau;2023;8958.0;3089
+16e;Résidentiel;2020;;323
+7e;Commercial;2024;8499.0;2616
+13e;Résidentiel;2021;1144.0;383
+1er;Commercial;2017;822.0;269
+7e;Résidentiel;2022;1407.0;416
+9e;Équipement public;2019;631.0;204
+20e;Résidentiel;2020;791.0;269
+5e;Équipement public;2016;1769.0;611
+6e;Bureau;2016;4348.0;1482
+9e;Commercial;2020;1300.0;482
+20e;Bureau;2016;5882.0;1818
+18e;Bureau;2024;6626.0;2026
+1er;Équipement public;2023;3661.0;1295
+5e;Résidentiel;2022;1940.0;682
+17e;Commercial;2022;5218.0;1581
+2e;Résidentiel;2020;359.0;137
+18e;Commercial;2015;1608.0;533
+6e;Résidentiel;2018;730.0;246
+19e;Commercial;2019;2184.0;693
+6e;Commercial;2024;1347.0;493
+9e;Résidentiel;2017;1192.0;380
+14e;Résidentiel;2019;5002.0;1724
+3e;Bureau;2018;2617.0;846
+12e;Bureau;2016;3937.0;1496
+11e;Résidentiel;2016;1138.0;383
+16e;Commercial;2018;2119.0;702
+20e;Équipement public;2015;1345.0;485
+14e;Résidentiel;2015;1833.0;676
+9e;Résidentiel;2018;3028.0;1101
+9e;Résidentiel;2017;4244.0;1476
+9e;Commercial;2020;2495.0;932
+17e;Résidentiel;2015;2024.0;603
+7e;Bureau;2018;1317.0;450
+4e;Commercial;2019;1889.0;582
+7e;Résidentiel;2024;2587.0;765
+1er;Bureau;2021;5403.0;2028
+3e;Bureau;2023;3417.0;1095
+2e;Résidentiel;2018;;756
+16e;Résidentiel;2019;1888.0;608
+15e;Résidentiel;2019;;1054
+14e;Résidentiel;2023;1640.0;557
+10e;Résidentiel;2024;1044.0;397
+15e;Équipement public;2024;1694.0;560
+4e;Résidentiel;2022;172.0;51
+19e;Résidentiel;2020;1751.0;520
+11e;Commercial;2020;156.0;59
+19e;Commercial;2024;601.0;190
+4e;Équipement public;2017;1838.0;647
+10e;Bureau;2018;4116.0;1239
+14e;Résidentiel;2023;594.0;225
+10e;Résidentiel;2018;814.0;243
+9e;Équipement public;2017;3496.0;1069
+4e;Commercial;2020;1432.0;532
+8e;Équipement public;2018;6438.0;2431
+5e;Résidentiel;2023;1338.0;409
+7e;Bureau;2024;3921.0;1439
+14e;Commercial;2018;6231.0;2058
+13e;Résidentiel;2020;1468.0;440
+13e;Commercial;2024;996.0;326
+8e;Commercial;2022;1861.0;638
+20e;Résidentiel;2017;1306.0;442
+2e;Résidentiel;2020;515.0;194
+7e;Bureau;2021;2464.0;730
+3e;Résidentiel;2021;797.0;280
+7e;Résidentiel;2015;2558.0;930
+20e;Résidentiel;2017;1372.0;485
+8e;Résidentiel;2023;1099.0;326
+19e;Équipement public;2017;1243.0;465
+10e;Bureau;2017;3445.0;1046
+14e;Résidentiel;2018;2063.0;652
+10e;Équipement public;2016;665.0;204
+6e;Bureau;2016;1421.0;420
+16e;Résidentiel;2018;2902.0;886
+20e;Bureau;2023;2208.0;658
+6e;Résidentiel;2015;497.0;184
+16e;Équipement public;2017;1827.0;564
+6e;Commercial;2015;2779.0;915
+15e;Commercial;2020;688.0;227
+16e;Résidentiel;2017;1573.0;474
+9e;Bureau;2022;4931.0;1460
+15e;Résidentiel;2020;1741.0;550
+6e;Résidentiel;2022;2085.0;698
+2e;Résidentiel;2021;501.0;169
+2e;Bureau;2019;3715.0;1277
+9e;Résidentiel;2023;1084.0;375
+19e;Équipement public;2019;955.0;328
+3e;Commercial;2024;3695.0;1383
+10e;Résidentiel;2024;;1417
+15e;Résidentiel;2020;4703.0;1459
+5e;Résidentiel;2021;3362.0;1137
+15e;Commercial;2017;1861.0;556
+7e;Bureau;2023;3772.0;1221
+17e;Résidentiel;2021;2291.0;872
+12e;Bureau;2024;3208.0;1177
+11e;Résidentiel;2017;1468.0;531
+4e;Bureau;2022;5245.0;1552
+10e;Équipement public;2019;1285.0;463
+18e;Bureau;2016;1769.0;587
+1er;Commercial;2016;1503.0;449
+16e;Bureau;2020;4593.0;1358
+10e;Résidentiel;2018;1342.0;481
+15e;Résidentiel;2016;1700.0;644
+14e;Résidentiel;2019;2141.0;786
+9e;Résidentiel;2021;1030.0;389
+7e;Commercial;2018;3411.0;1238
+13e;Commercial;2024;2619.0;857
+3e;Bureau;2022;1242.0;373
+12e;Résidentiel;2020;3676.0;1213
+2e;Commercial;2024;1415.0;456
+13e;Résidentiel;2019;420.0;152
+13e;Résidentiel;2016;644.0;199
+2e;Commercial;2015;983.0;318
+16e;Équipement public;2024;1389.0;422
+9e;Commercial;2024;1659.0;494
+16e;Résidentiel;2022;1058.0;368
+1er;Commercial;2016;3100.0;1160
+4e;Résidentiel;2017;1699.0;611
+10e;Bureau;2015;3676.0;1246
+4e;Commercial;2015;2677.0;798
+7e;Résidentiel;2017;2062.0;710
+14e;Résidentiel;2020;306.0;95
+3e;Résidentiel;2015;1038.0;342
+14e;Équipement public;2024;291.0;106
+3e;Résidentiel;2019;1374.0;481
+4e;Bureau;2017;2937.0;941
+12e;Commercial;2020;4177.0;1331
+16e;Commercial;2022;4614.0;1565
+4e;Résidentiel;2018;1544.0;555
+6e;Équipement public;2015;944.0;297
+19e;Résidentiel;2015;1881.0;688
+20e;Commercial;2023;1388.0;414
+12e;Commercial;2016;2007.0;730
+9e;Commercial;2021;4007.0;1492
+7e;Équipement public;2018;906.0;302
+13e;Résidentiel;2022;2354.0;781
+12e;Résidentiel;2015;2152.0;716
+6e;Résidentiel;2023;687.0;233
+1er;Résidentiel;2021;2648.0;780
+4e;Résidentiel;2019;2184.0;731
+20e;Résidentiel;2017;1438.0;482
+9e;Résidentiel;2024;786.0;268
+10e;Résidentiel;2018;734.0;277
+10e;Résidentiel;2019;919.0;299
+16e;Commercial;2018;2937.0;1056
+2e;Commercial;2017;1029.0;331
+2e;Résidentiel;2019;1819.0;689
+6e;Résidentiel;2016;562.0;166
+10e;Résidentiel;2015;1161.0;390
+14e;Commercial;2017;2169.0;654
+10e;Résidentiel;2016;7417.0;2489
+9e;Résidentiel;2019;511.0;193
+19e;Résidentiel;2023;3753.0;1152
+4e;Résidentiel;2016;1488.0;477
+12e;Résidentiel;2015;1786.0;554
+11e;Commercial;2016;2183.0;742
+10e;Commercial;2020;2743.0;882
+17e;Commercial;2017;1804.0;549
+6e;Commercial;2019;5560.0;1791
+20e;Commercial;2015;1460.0;507
+7e;Résidentiel;2018;2959.0;945
+11e;Bureau;2019;1877.0;598
+11e;Résidentiel;2019;1284.0;381
+17e;Résidentiel;2020;632.0;218
+9e;Commercial;2022;2763.0;940
+6e;Résidentiel;2019;3683.0;1133
+1er;Résidentiel;2023;1269.0;422
+8e;Commercial;2020;1750.0;549
+17e;Bureau;2017;1350.0;455
+1er;Équipement public;2017;1141.0;412
+18e;Résidentiel;2018;439.0;137
+11e;Résidentiel;2020;707.0;261
+3e;Bureau;2017;3454.0;1252
+7e;Résidentiel;2024;3372.0;1087
+12e;Bureau;2019;21055.0;6584
+7e;Résidentiel;2023;888.0;268
+3e;Résidentiel;2021;3658.0;1298
+14e;Résidentiel;2018;1589.0;591
+14e;Bureau;2017;2651.0;788
+3e;Résidentiel;2022;1813.0;666
+6e;Résidentiel;2018;1399.0;507
+5e;Résidentiel;2017;1447.0;511
+14e;Résidentiel;2024;1006.0;333
+15e;Résidentiel;2019;503.0;152
+15e;Commercial;2015;682.0;213
+19e;Résidentiel;2019;2116.0;668
+16e;Bureau;2019;2428.0;886
+7e;Bureau;2023;1941.0;673
+3e;Résidentiel;2022;1347.0;452
+13e;Résidentiel;2016;2337.0;860
+19e;Commercial;2016;2280.0;809
+20e;Résidentiel;2021;846.0;297
+5e;Résidentiel;2015;3160.0;1170
+5e;Équipement public;2018;4046.0;1331
+1er;Équipement public;2016;1894.0;599
+3e;Bureau;2015;5826.0;2194
+12e;Résidentiel;2024;3195.0;1070
+11e;Commercial;2015;4432.0;1374
+8e;Commercial;2015;3088.0;965
+7e;Résidentiel;2024;2036.0;626
+17e;Commercial;2016;2891.0;977
+10e;Résidentiel;2023;621.0;191
+17e;Résidentiel;2015;2187.0;783
+20e;Résidentiel;2016;518.0;179
+7e;Résidentiel;2016;768.0;280
+5e;Résidentiel;2022;3336.0;1122
+20e;Bureau;2021;5306.0;1821
+13e;Équipement public;2019;3794.0;1359
+6e;Commercial;2017;1661.0;519
+13e;Bureau;2015;1315.0;461
+11e;Équipement public;2020;1132.0;402
+19e;Résidentiel;2017;1439.0;532
+6e;Résidentiel;2020;1416.0;480
+20e;Résidentiel;2021;2962.0;1042
+19e;Résidentiel;2023;1040.0;359
+4e;Bureau;2019;3770.0;1352
+4e;Résidentiel;2015;670.0;209
+11e;Résidentiel;2017;1836.0;549
+1er;Résidentiel;2023;1342.0;448
+6e;Résidentiel;2020;792.0;254
+9e;Équipement public;2021;1136.0;345
+20e;Résidentiel;2019;1177.0;346
+20e;Résidentiel;2016;1109.0;359
+4e;Résidentiel;2023;4628.0;1397
+18e;Résidentiel;2022;1250.0;376
+2e;Commercial;2024;1694.0;524
+15e;Résidentiel;2023;309.0;104
+17e;Résidentiel;2017;716.0;269
+18e;Résidentiel;2017;1114.0;426
+5e;Bureau;2017;1823.0;611
+18e;Commercial;2024;5285.0;1764
+3e;Commercial;2020;1790.0;612
+11e;Commercial;2019;4951.0;1621
+10e;Bureau;2024;3077.0;1012
+7e;Résidentiel;2021;1375.0;421
+1er;Résidentiel;2024;1259.0;469
+16e;Résidentiel;2024;1343.0;483
+7e;Résidentiel;2015;4461.0;1379
+14e;Bureau;2018;581.0;177
+9e;Résidentiel;2022;330.0;97
+8e;Bureau;2023;2015.0;611
+18e;Bureau;2016;2977.0;899
+2e;Résidentiel;2018;2171.0;761
+15e;Équipement public;2020;1865.0;638
+15e;Commercial;2022;1535.0;545
+8e;Bureau;2016;6014.0;1949
+6e;Résidentiel;2021;2755.0;822
+1er;Résidentiel;2017;;530
+19e;Résidentiel;2017;2628.0;863
+19e;Résidentiel;2020;1621.0;571
+5e;Résidentiel;2019;904.0;330
+1er;Équipement public;2021;2183.0;792
+3e;Commercial;2018;2171.0;820
+2e;Résidentiel;2023;1341.0;399
+17e;Résidentiel;2015;3756.0;1285
+18e;Résidentiel;2023;241.0;74
+4e;Résidentiel;2015;497.0;158
+15e;Équipement public;2022;584.0;212
+4e;Résidentiel;2018;1039.0;379
+8e;Résidentiel;2018;1121.0;345
+12e;Commercial;2015;;249
+15e;Résidentiel;2022;672.0;202
+18e;Résidentiel;2016;733.0;270
+1er;Commercial;2021;11222.0;3571
+4e;Commercial;2022;7092.0;2181
+6e;Équipement public;2023;1004.0;360
+7e;Commercial;2022;1558.0;552
